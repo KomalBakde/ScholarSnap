@@ -1,1 +1,2 @@
-# ScholarSnap
+# ScholarSnap - Publications Summary Generator
+Maintaining an organized and comprehensive record of scholarly publications is crucial for researchers in academia. ScholarSnap, a web-based tool designed to automate and simplify the process of consolidating publication records from multiple data sources like ORCID, CrossRef, DataCite, Europe PMC and Scopus. By using a user’s ORCID ID, ScbolarSnap fetches and structures publication metadata including title, publication type, source, and citation count. It also generates useful metrics such as total publications, h-index, and yearly trends. Additional features like data filtering, document export, and cross-platform integration make PSG a powerful academic utility for efficient research profiling.
